@@ -1,6 +1,6 @@
 # Movie Ticket Booking
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is an assignment for subject FER201m, semester 5, at FPT University.
 
 ## Available Scripts
 
